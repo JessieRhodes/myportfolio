@@ -1,3 +1,10 @@
+/*Name Styling*/
+#jessieRhodes {
+	font-size: 85px;
+	margin: 10px;
+	font-family: 'Lobster', cursive;
+}
+
 .cbp-so-scroller {
 	margin-top: 3em;
 	overflow: hidden;
@@ -20,14 +27,33 @@
 
 /* Text styling */
 .cbp-so-section h2 {
-	font-size: 5em;
+	font-size: 4em;
 	font-weight: 300;
 	line-height: 1;
+	font-family: 'Raleway', sans-serif;
 }
 
 .cbp-so-section p {
 	font-size: 2em;
 	font-weight: 300;
+	font-family: 'Raleway', sans-serif;
+}
+fa-4x {
+	margin: 50px;
+}
+
+a {
+	font-size: 2em;
+	font-weight: 300;
+}
+nav img i {
+	height: 100px;
+	width: 100px;
+	clear: both;
+}
+nav {
+	display: flex!important;
+	justify-content: flex-start!important;
 }
 
 /* Sides */
@@ -97,13 +123,13 @@
 	opacity: 1;
 }
 
-/* For example, add a delay for the right side:
+ /*For example, add a delay for the right side:*/
 .cbp-so-section.cbp-so-animate .cbp-so-side-right {
 	-webkit-transition-delay: 0.2s;
 	-moz-transition-delay: 0.2s;
 	transition-delay: 0.2s;
 }
-*/
+
 
 /* Example media queries */
 
