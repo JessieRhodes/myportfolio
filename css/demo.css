@@ -37,7 +37,7 @@ a:hover {
 	/*width: 90%;*/
 	max-width: 79em;
 	margin: 0 auto;
-	padding: 2.875em 1.875em 1.875em;
+	padding: 2.875em 1.875em 1.00em;
 }
 
 .container > header h1 {

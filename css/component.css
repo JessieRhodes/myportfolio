@@ -4,6 +4,34 @@
 	margin: 10px;
 	font-family: 'Lobster', cursive;
 }
+#aboutMe {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	margin-top: 40px;
+	margin-left: 100px;
+	margin-right: 70px;
+	letter-spacing: 1.50px;
+	text-align: center;
+}
+#skillsTitle {
+	font-family: 'Lobster', cursive;
+	font-size: 50px;
+	text-align: center;
+}
+#skillSection {
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	
+
+}
+#skillTypes {
+	display: flex;
+	flex direction: column;
+	justify-content: center;
+	justify-content: space-between;
+	margin-left: 250px;
+	margin-right: 250px;
+}
 
 .cbp-so-scroller {
 	margin-top: 3em;
