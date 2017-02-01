@@ -74,10 +74,25 @@ footer {
 
 }
 
+#nav {
+	display: flex;
+	justify-content: center;
+	justify-content: space-between;
+}
+
+i {
+	padding: 10px;
+}
+
+#email {
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	margin-top: 5px;
+}
+
 .cbp-so-scroller {
 	margin-top: 3em;
 	overflow: hidden;
-	margin-bottom: 20px;
 }
 
 .cbp-so-section {
