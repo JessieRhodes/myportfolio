@@ -182,7 +182,7 @@ h4 {
 	content: "\e004";
 }
 
-@media screen and (max-width: 55em) {
+/*@media screen and (max-width: 55em) {
 
 	.container > header h1,
 	.container > header nav {
@@ -193,6 +193,9 @@ h4 {
 	.container > header h1 {
 		text-align: center;
 	}
+	#jessieRhodes {
+		font-size: 10px;
+	}
 
 	.container > header nav {
 		margin: 0 auto;
@@ -201,4 +204,4 @@ h4 {
 	.container > header > span {
 		text-indent: 30px;
 	}
-}
+}*/
